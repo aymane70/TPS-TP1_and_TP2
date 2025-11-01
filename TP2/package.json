@@ -1,5 +1,17 @@
 {
   "dependencies": {
     "formidable": "^2.1.5"
-  }
+  },
+  "name": "tp2",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

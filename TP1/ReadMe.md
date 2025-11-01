@@ -87,11 +87,11 @@ Open:
 
 
 1. **App home page** (`greetings.html`):  
-   ![Greetings page](docs/screenshots/greetings.png)
+   ![Greetings page](docs/screenshots/greetings1.png)
 
 
 2. **Servlet response** (`/hello`):  
-   ![GreetingServlet response](docs/screenshots/hello.png)
+   ![GreetingServlet response](docs/screenshots/hello1.png)
 
 
 ---
