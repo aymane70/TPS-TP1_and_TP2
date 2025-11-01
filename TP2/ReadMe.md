@@ -33,11 +33,11 @@
 
 
 ## Étape 5 — Réponse synchrone (anti-pattern) 
-une petite remarque , j'ai fait appelé "localhost/start/" au lieu  "localhost/start " , c'est pourquoi j'ai des erreurs, ensuite j'ai réglé cette erreur mais j'ai oublié de prendre des screenshots :)
-![Dashboard screenshot](./images/5/Capture%20d'écran%202025-10-29%20222323.png)
+
+
 ![Dashboard screenshot](./images/5/Capture%20d'écran%202025-10-29%20222738.png)
 ![Dashboard screenshot](./imagess/4.png)
-![Dashboard screenshot](./images/5/Capture%20d'écran%202025-10-29%20222751.png)
+
 ![Dashboard screenshot](./images/5/Capture%20d'écran%202025-10-29%20222853.png)
 
 
