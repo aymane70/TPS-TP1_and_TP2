@@ -17,16 +17,15 @@
 
 ## Structure finale du projet
 
-.
 ├── app.js
 ├── models/
-│   └── Task.js
+│ └── Task.js
 ├── routes/
-│   └── tasks.js
+│ └── tasks.js
 ├── public/
-│   ├── index.html
-│   ├── style.css
-│   └── frontend.js
+│ ├── index.html
+│ ├── style.css
+│ └── frontend.js
 ├── .env
 ├── package.json
 └── images/
