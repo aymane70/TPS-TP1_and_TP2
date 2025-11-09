@@ -77,3 +77,4 @@ L’application front-end est servie depuis le dossier public/.
 
 ![Dashboard screenshot](./images/4.png)
 ![Dashboard screenshot](./images/5.png)
+![Dashboard screenshot](./images/00.png)
